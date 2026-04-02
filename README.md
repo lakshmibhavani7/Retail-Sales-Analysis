@@ -14,8 +14,11 @@ This project analyzes retail sales data using SQL and Python to evaluate sales p
 
 ## Folder Structure
 Data/ - Contains MasterTable_SQL.csv and SalesDataset.csv
+
 Python/ - Jupyter notebooks for EDA and analysis
+
 SQL/ - SQL queries for master table and business insights
+
 PowerBI/ - Power BI dashboard file
 
 ---
